@@ -12,7 +12,7 @@
 
 ## 访问地址
 
-**https://your-username.github.io/offer-tracker/**
+**https://kuebikoz.github.io/offer-tracker/**
 
 （部署后替换为你的 GitHub Pages 地址）
 
